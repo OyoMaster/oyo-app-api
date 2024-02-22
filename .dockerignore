@@ -1,0 +1,6 @@
+__pycahe__/
+.git
+.serverless/
+.gitignore
+.dockerignore
+serverless.yml

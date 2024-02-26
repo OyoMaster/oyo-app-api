@@ -4,24 +4,31 @@
 ![oyoapp_project02](https://github.com/OyoMaster/aws-oyo-app/assets/158253607/54b9df3d-e077-4bb5-a289-61ea78457efd)
 
 
-### 기간
+### 📅 기간
 2024-01-16 ~ 2024-02-16 (총 32일)
 
-### 목적
+### 📢 목적
 고물가 & 고금리시대 부담스러운 외식 비용을 줄일 수 있도록 AI로 레시피 추천하는 서비스 
+
+### 🍳 주요 기능
+
+
+
 
 ## 프로젝트 소개
 
-### 작업순서
+### 📌 작업순서
 
 화면기획서 제작 > DB 테이블 설계 > API 설계 > API 개발 및 테스트 > 안드로이드 화면설계 > 안드로이드 개발 및 테스트
 
-### 관련 링크
+### 📎 관련 링크
 화면 설계서 - https://www.figma.com/file/swR81qqaiqBZYNG9hfPP3O/1%EC%A1%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C?type=design&node-id=0%3A1&mode=design&t=DDZ7FUwL5zIbNMeB-1
+
 DB 테이블 명세서 - https://www.erdcloud.com/d/cgwCjQuiG2sPzYi7Q
+
 API 명세서 - https://s-organization-242.gitbook.io/oyo-api/
 
-### Stack
+### 📚 Stacks
 
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"> <img src="https://img.shields.io/badge/jsonwebtokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 
@@ -29,7 +36,12 @@ API 명세서 - https://s-organization-242.gitbook.io/oyo-api/
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-### 작업 설명
+### 🎇 Architecture
+
+![image](https://github.com/OyoMaster/oyo-app-api/assets/158253607/f6d0c5de-4520-484a-bd80-9ab083c76d6a)
+
+
+### 🛠️ 작업 설명
 MySQL을 이용한 관계형 데이터베이스(RDBMS)
 
 빠르고 정확한 데이터 검색을 위한 Index설정

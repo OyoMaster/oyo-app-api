@@ -34,6 +34,8 @@ DB 테이블 명세서 - https://www.erdcloud.com/d/cgwCjQuiG2sPzYi7Q
 
 API 명세서 - https://s-organization-242.gitbook.io/oyo-api/
 
+프로젝트 기술서 - https://docs.google.com/presentation/d/1rBFHgJC2BXzM8MH8bK9H57ZY3D7s6R6PA1rkAUBNl_I/edit#slide=id.g2698337bf8e_0_9
+
 ### 📚 Stacks
 
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"> <img src="https://img.shields.io/badge/jsonwebtokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">

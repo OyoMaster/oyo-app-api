@@ -10,9 +10,6 @@
 ### 목적
 고물가 & 고금리시대 부담스러운 외식 비용을 줄일 수 있도록 AI로 레시피 추천하는 서비스 
 
-### 인원
-4인 작업
-
 ## 프로젝트 소개
 
 ### Stack
@@ -22,3 +19,35 @@
 <img src="https://img.shields.io/badge/awslambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=black"> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+### 작업 설명
+MySQL을 이용한 관계형 데이터베이스(RDBMS)
+
+빠르고 정확한 데이터 검색을 위한 Index설정
+
+데이터의 효율적이고 유기적인 관리를 위한 왜래키(Foreign keys)에서의 cascade를 설정
+
+Flask 프레임워크를 활용한  RestFul API 개발
+
+JWT을 활용한 사용자 인증 및 권한 부여 구현
+
+Passlib 라이브러리를 사용하여 비밀번호 암호화 및 이미일 형식 체크
+
+Open API활용 (ChatGPT, 유튜브 검색, 카카오/구글 로그인)
+
+---
+
+Github의 Actions를 통한 애자일 방식의 배포 자동화(CI/CD)
+
+AWS Lambda 함수로 RDS, S3 쿼리를 수행하여 Serverless 아키텍처 구축
+
+개발환경의 일관성 유지를 위한 ECR 컨테이너 처리와 배포
+
+ECR의 이미지 패키징을 위한 Docker 사용
+
+AWS CloudWatch로 어플리케이션 모니터링 및 로그 파악하여 에러 해결
+
+
+
+
+

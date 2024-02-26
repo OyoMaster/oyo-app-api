@@ -12,6 +12,15 @@
 
 ## 프로젝트 소개
 
+### 작업순서
+
+화면기획서 제작 > DB 테이블 설계 > API 설계 > API 개발 및 테스트 > 안드로이드 화면설계 > 안드로이드 개발 및 테스트
+
+### 관련 링크
+화면 설계서 - https://www.figma.com/file/swR81qqaiqBZYNG9hfPP3O/1%EC%A1%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C?type=design&node-id=0%3A1&mode=design&t=DDZ7FUwL5zIbNMeB-1
+DB 테이블 명세서 - https://www.erdcloud.com/d/cgwCjQuiG2sPzYi7Q
+API 명세서 - https://s-organization-242.gitbook.io/oyo-api/
+
 ### Stack
 
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"> <img src="https://img.shields.io/badge/jsonwebtokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">

@@ -1,7 +1,7 @@
 # 오요앱 (오늘의 요리 앱)
 
 
-![oyoapp_project02](https://github.com/OyoMaster/aws-oyo-app/assets/158253607/54b9df3d-e077-4bb5-a289-61ea78457efd)
+![image](https://github.com/OyoMaster/aws-oyo-app/assets/158253607/54b9df3d-e077-4bb5-a289-61ea78457efd)
 
 
 ### 📅 기간

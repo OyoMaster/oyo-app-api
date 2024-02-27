@@ -1,8 +1,6 @@
 # 오요앱 (오늘의 요리 앱)
 
 
-![image](https://github.com/OyoMaster/aws-oyo-app/assets/158253607/54b9df3d-e077-4bb5-a289-61ea78457efd)
-
 ![oyoapp_project02](https://github.com/OyoMaster/oyo-app-api/assets/158253607/9450b512-535a-42ae-873a-9e9d81fe74b6)
 
 
